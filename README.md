@@ -1,7 +1,7 @@
 # slider
 ᯓᡣ𐭩 Slider HTML
 
-Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: March 3rd, 2021
+Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: March 3rd, 2021
 
 Destination : Implementing Slider Feature in HTML
 
